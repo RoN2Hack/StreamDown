@@ -1,8 +1,12 @@
-r
-Bonjour ! Pour utiliser ce logiciel, vous avez besoin de FFMPEG installé sur votre ordinateur.
+Bonjour ! Pour utiliser ce logiciel, vous avez besoin de FFMPEG sur votre ordinateur.
 
-Pour installer FFMPEG, vous pouver aller sur ce site : https://www.wikihow.com/Install-FFmpeg-on-Windows
+Télécharger le fichier ffmpeg.exe
 
-Sinon, vous démarrer le logiciel, vous cherchez votre film et vous entrez le numéro du film.
+Utilisation du logiciel :
+  1 - Saisissez le nom de votre film (Entrez un mot clé)
+  2 - Attendez qu'une liste de film s'affiche
+  3 - Choisissez votre film et entrez son numéro
+  4 - Attendez que le film soit téléchargé
 
 Compatible avec Kidraz (kidraz.com)
+
